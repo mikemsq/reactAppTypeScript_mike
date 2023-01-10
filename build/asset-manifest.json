@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactAppTypeScript_mike/build/static/css/main.e0e40e6b.css",
-    "main.js": "/reactAppTypeScript_mike/build/static/js/main.da4e83a9.js",
-    "static/js/787.425f66d6.chunk.js": "/reactAppTypeScript_mike/build/static/js/787.425f66d6.chunk.js",
-    "index.html": "/reactAppTypeScript_mike/build/index.html",
-    "main.e0e40e6b.css.map": "/reactAppTypeScript_mike/build/static/css/main.e0e40e6b.css.map",
-    "main.da4e83a9.js.map": "/reactAppTypeScript_mike/build/static/js/main.da4e83a9.js.map",
-    "787.425f66d6.chunk.js.map": "/reactAppTypeScript_mike/build/static/js/787.425f66d6.chunk.js.map"
+    "main.css": "/reactAppTypeScript/reactproject1/build/static/css/main.e0e40e6b.css",
+    "main.js": "/reactAppTypeScript/reactproject1/build/static/js/main.0c92c693.js",
+    "static/js/787.425f66d6.chunk.js": "/reactAppTypeScript/reactproject1/build/static/js/787.425f66d6.chunk.js",
+    "index.html": "/reactAppTypeScript/reactproject1/build/index.html",
+    "main.e0e40e6b.css.map": "/reactAppTypeScript/reactproject1/build/static/css/main.e0e40e6b.css.map",
+    "main.0c92c693.js.map": "/reactAppTypeScript/reactproject1/build/static/js/main.0c92c693.js.map",
+    "787.425f66d6.chunk.js.map": "/reactAppTypeScript/reactproject1/build/static/js/787.425f66d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e40e6b.css",
-    "static/js/main.da4e83a9.js"
+    "static/js/main.0c92c693.js"
   ]
 }
